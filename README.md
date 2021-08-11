@@ -35,7 +35,7 @@ Example : ` bash jbopener.sh www.google.com ` , In android this terminal not ope
 ## How To Download JBOpener 
 You can download JBopener in two ways :
 - [Download using Git Bash or CMD](#download-using-git-bash-or-cmd)
-- Download by using JBOpener.zip
+- Download by using jbo.zip
 
 ### Download using Git Bash or CMD
 - Git Bash
@@ -48,14 +48,7 @@ Your done with this. Now you want to type ` ./intro.sh `
 - next you want to type ` ./install.sh `
 - It will automatically reject to ` ./jbopener.sh `
 And your done Jbopener has installed on your computer.
-- **Next time onwards you want to type ** ` ./jbopener.sh -browser- -URL-
-
-### Download by using JBOpener.zip
-Download a zip from this url [https://junaidcodingmaster.github.io/Junaid-Web-Hosting/JBOpener-0.1.2.zip](https://junaidcodingmaster.github.io/Junaid-Web-Hosting/JBOpener-0.1.2.zip)
-- And extract it.
-Your done.
-- Now copy path of the folder and paste it to your terminal.
-- Now go to [How To Download JBOpener ](#how-to-download-jbopener)
+- **Next time onwards you want to type ** ` ./jbo.sh --browser/application_name-- -URL-
 
 > This is Update version of Junaid Browser Opener
 > Version 0.1.2

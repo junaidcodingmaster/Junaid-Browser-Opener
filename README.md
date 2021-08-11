@@ -58,7 +58,12 @@ And your done Jbopener has installed on your computer.
 - If you are in another folder you want to type ` ../../../../Junaid-Browser-Opener/jbo.sh --Browser/application-- -URL/application_Task-
 
 > JBOpener to JBO
-> This is Updated version of Junaid Browser Opener
-> Version 0.2
-> Made By Junaid.
 
+
+> This is Updated version of Junaid Browser Opener
+
+
+> Version 0.2
+
+
+> Made By Junaid.
